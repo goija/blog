@@ -434,7 +434,7 @@ MSc J.H. Theunisse |
 Functionaris Gegevensbescherming | Data Protection Officer
 gemeente Tholen | Postbus 51, 4690 AB Tholen
 tel: 140166 | werkdagen: vrijdag
-U ontvangt niet vaak e-mail van goija@protonmail.com. Ontdek waarom dit belangrijk is
+U ontvangt niet vaak e-mail van  Ontdek waarom dit belangrijk is
 Aan: De Functionaris Gegevensbescherming van de Gemeente TholenBetreft:
 Analyse onrechtmatige BRP-raadpleging en discrepantie in audit-logs
 Geachte Functionaris,
