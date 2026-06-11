@@ -1,11 +1,3 @@
- Conversation with Gemini
-
-
-
-
-
-R Goijarts
-
 W3C Community Contributor License Agreement (CLA)
 
 
