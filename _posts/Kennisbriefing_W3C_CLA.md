@@ -1,6 +1,6 @@
 # Kennisbriefing: W3C Community Contributor License Agreement (CLA)
 **Documenttype:** Technical Compliance & IPR Analyse  
-**Auteur:** R. Goijarts (*Technical Compliance Officer*)  
+**Auteur:** R. Goijarts  
 **Datum:** 11 juni 2026  
 **Status:** Definitief / Intern Naslagwerk  
 
