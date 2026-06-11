@@ -1,6 +1,4 @@
-Hier is een scherp, analytisch blogbericht gebaseerd op de door u geschetste punten. De toon is kritisch, deskundig en urgent—perfect voor een publiek dat zich bezighoudt met IT-architectuur, cybersecurity en digitale soevereiniteit.
 
----
 
 # De Illusie van Veiligheid: Hoe we de Regie Over Onze Data Vrijwillig Weggeven
 
