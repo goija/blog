@@ -1,3 +1,29 @@
+Libroot.org
+over projects posts
+Cloudflare Blocker, Firefox-extensie
+Gepubliceerd op 28 september 2025
+
+Cloudflare is een onweerstaanbare hub voor massasurveillance. Door zijn ontwerp is het een permanente Man-in-the-Middle, die de sleutels van het verkeer over grote delen van het internet vasthoudt. Cloudflare is in feite een gecentraliseerde kwetsbaarheidsfabriek.
+
+We schreven een Firefox-extensie die elke website blokkeert met Cloudflare. Simpel als dat.
+
+https://addons.mozilla.org/en-US/firefox/addon/cloudflare-blocker
+
+Repo met bron: https://git.libroot.org/libroot/Cloudflare-Blocker.
+
+Het inspecteert HTTP-headers.
+
+Als Cloudflare-gerelateerde headers worden gedetecteerd, wordt het verzoek ter plekke gedood.
+
+U krijgt een schakelaar in het pop-upmenu om het aan of uit te zetten.
+
+Cloudflare wil een wereld normaliseren waarin "secure" standaard "MITM" betekent Dat is onaanvaardbaar. Deze verlenging maakt het compromis zichtbaar en geeft u de macht om het af te wijzen.
+
+
+De code is er, gratis en open. Audit het, fork het, breek het, verbeter het.
+
+https://git.libroot.org/libroot
+
 Hier is een compleet, minimalistisch en functioneel ontwerp voor een webpagina die de **Cloudflare Blocker** introduceert, de filosofie erachter uitlegt en de technische werking (de headers en cookies) inzichtelijk maakt.
 
 Het ontwerp is geschreven in pure HTML en CSS (ingebed), volledig responsive, en sluit qua esthetiek aan bij de minimalistische, open-source 'hacktivist'-stijl (donker thema, strakke schreefloze letters en duidelijke codeblokken).
